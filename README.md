@@ -20,3 +20,5 @@ Ferramentas/tecnologias utilizadas:
 - Notação DER (Diagrama Entidade-Relacionamento)
 
 Criado por mim: Fernando M. do Valle (https://github.com/DaDosValle)
+
+Em breve meu portfolio consolidado e centralizado.
